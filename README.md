@@ -15,7 +15,7 @@ Task Deletion and updation: users can easily decide to delete or update the exis
 Clone the repository using the following command:
 
 bash:-
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/Sushant201002/flask-app.git
 
 Install the required dependencies by running the following command:
 pip install -r requirements.txt
